@@ -25,3 +25,8 @@ go.work.sum
 .env
 
 .idea
+
+*.db
+*.alog
+
+go.sum
